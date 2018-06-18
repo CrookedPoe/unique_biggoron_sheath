@@ -73,3 +73,8 @@
 06021550 : FPS Right Hand + Fairy Bow
 06021560 : FPS Right Hand + FPS Hookshot / Longshot
 06022698 : Biggoron Sword Sheath
+060228A0 : Sheathed Biggoron Sword
+060228C8 : Hylian Shield + Sheathed Biggoron Sword
+060228D8 : Hylian Shield + Biggoron Sword Sheath
+060228E8 : Mirror Shield + Sheathed Biggoron Sword
+060228F8 : Mirror Shield + Biggoron Sword Sheath
